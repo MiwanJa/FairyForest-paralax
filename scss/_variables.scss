@@ -1,0 +1,9 @@
+:root {
+    --color-Dark: #000000;
+    --color-Light: #ffffff;
+    --color-Svetl: #e7e7e0 ;
+    --color-shadow: #9e7d35;
+
+    --index: calc(1vw + 1vh);
+    --transition: transform .75s cubic-bezier(.075, .5, 0, 1);
+}
